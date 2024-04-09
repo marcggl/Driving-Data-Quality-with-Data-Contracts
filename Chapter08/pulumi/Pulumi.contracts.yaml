@@ -1,2 +1,2 @@
 config:
-  gcp:project: my-google-project-2468
+  gcp:project: data-contract-poc
